@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Refresh List"
+        android:id="@+id/refresh"
+        app:showAsAction="never"/>
+
+
+    <item android:title="Favourites"
+        android:id="@+id/favourites"
+        app:showAsAction="never"/>
+
+    <item android:title="Sort Increasingly"
+        android:id="@+id/AscSort"
+        app:showAsAction="never"/>
+
+    <item android:title="Sort decreasingly"
+        android:id="@+id/descSort"
+        app:showAsAction="never"/>
+
+</menu>
